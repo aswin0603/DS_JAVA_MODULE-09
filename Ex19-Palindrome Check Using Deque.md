@@ -3,6 +3,7 @@
 ## AIM:
 To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
+
 ## Algorithm
 1. Start the program.
 2. Read an input string from the user.
